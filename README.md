@@ -1,6 +1,6 @@
 # <span style="color:#00FFFF">@yourusername</span> | <span style="color:#FFFFFF">README</span>.md
 
-## Hai, Aku William BEnediktus! 👋
+## Hai, I'm William Benediktus! 👋
 
 ### 👤 About Me:
 * Universitas: Universitas Sumatera Utara
