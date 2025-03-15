@@ -1,4 +1,4 @@
-# <span style="color:#00FFFF">@yourusername</span> | <span style="color:#FFFFFF">README</span>.md
+# <span style="color:#00FFFF">William Benediktus</span> | <span style="color:#FFFFFF">README</span>.md
 
 ## Hi, I'm William Benediktus! 👋
 
