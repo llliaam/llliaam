@@ -3,8 +3,8 @@
 ## Hi, I'm William Benediktus! 👋
 
 ### 👤 About Me:
-* Universitas: Universitas Sumatera Utara
-* Prodi: Teknologi Informasi
+* Universitas Sumatera Utara
+* Information Technology
 
 ### Introduction
 Welcome to my GitHub Profile. I am an IT Student at Universitas Sumatera Utara. I'm passionate about technology and continuously developing my programming skills. I enjoy collaborating on innovative projects and am always looking to connect with like-minded individuals in the tech community.
